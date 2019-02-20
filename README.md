@@ -2,7 +2,7 @@
 ---
 This repository contains the matlab scripts used to generate the results of the paper [https://arxiv.org/pdf/1812.01830.pdf](https://arxiv.org/pdf/1812.01830.pdf) presented in Section-IV. 
 
-For the numerical evaluation, we choose a two tier network where BSs in tier-1 are distributed as Poisson cluster process (PCP) and BSs in tier 2 are distributed as Poisson point process (PPP). The coverage probability ($P_c$) is evaluated for different values of coverage threshold ($\tau$) from simulation and analysis. 
+For the numerical evaluation, we choose a two tier network where BSs in tier-1 are distributed as Poisson cluster process (PCP) and BSs in tier 2 are distributed as Poisson point process (PPP). The coverage probability (P_c) is evaluated for different values of coverage threshold from simulation and analysis. 
 
 Run 'CoverageSimulation.m' to generate coverage probability by Monte Carlo simulation of the network. 
 
