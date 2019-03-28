@@ -1,4 +1,4 @@
-# PCP-HetNet-Max-Power-Association
+# Matlab code for the computation of coverage probability in  the unified HetNet model with PPP and PCP
 ---
 This repository contains the matlab scripts used to generate the results of the paper [https://arxiv.org/pdf/1812.01830.pdf](https://arxiv.org/pdf/1812.01830.pdf) presented in Section-IV. 
 
