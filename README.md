@@ -16,7 +16,8 @@ Please use the following bibtex code to cite the paper if parts of the scripts a
 @article{saha2018unified,
   title={Unified Analysis of HetNets using Poisson Cluster Process under Max-Power Association},
   author={Saha, Chiranjib and Dhillon, Harpreet S and Miyoshi, Naoto and Andrews, Jeffrey G},
-  note={available online: arXiv/abs/1812.01830},
+  journal ={IEEE Trans. in Wireless Commun.},
+  note={to appear},
   year={2018}
 }
 ```
