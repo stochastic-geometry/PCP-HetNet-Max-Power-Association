@@ -32,6 +32,8 @@ alpha = 4;
 tau = 10^(tau_dB/10);
 
 %%%%%
+P_11 = 1;
+ P_21 = (P_2/P_1)^(1/alpha);
   % if  (x<r-z)&&(z<=r)
  chi_1 = @(x)  2.*x/R^2;
 % if (x>abs(r-z))&&(x<r+z)
